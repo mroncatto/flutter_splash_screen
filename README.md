@@ -1,6 +1,10 @@
-# splash_screen
+# Flutter splash screen
 
-A custom splash screen
+
+<p align="center">
+  <img src="https://github.com/mroncatto/flutter_splash_screen/assets/31529014/d69fbcb3-9af2-494d-b12c-c5da62a8a23d" width="400" />
+  <img src="https://github.com/mroncatto/flutter_splash_screen/assets/31529014/67694e34-1ca9-466a-9eea-5087b452e18d" width="400" />
+</p>
 
 ## Getting Started
 
